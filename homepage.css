@@ -1,0 +1,8 @@
+body{background-color: Black;}
+h1{color: white;}
+p{color: white;}
+#firstdiv{color: white;}
+#seconddiv{color: white;}
+a:visited {color: blue;}
+a:unvisited{color: blue;}
+font-family: 'Bebas Neue', cursive;
